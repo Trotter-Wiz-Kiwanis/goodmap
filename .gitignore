@@ -4,3 +4,4 @@ data.json
 .coverage
 **/__pycache__
 .tool-versions
+typings/
