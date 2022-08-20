@@ -84,7 +84,7 @@ msgstr "kontener, placówka..."
 
 #: translations/added_words.list
 msgid "container"
-msgstr "kontener"
+msgstr "kontener na odzież"
 
 #: translations/added_words.list
 msgid "place"
